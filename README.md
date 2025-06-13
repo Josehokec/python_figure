@@ -2,9 +2,5 @@
 
 ### 柱状图
 1.[配色好的柱状图](/bar_figure+.ipynb)
+![bar_example](bar_example.png)
 
-
-### 未完成的工作
-1.实验图的字体选择
-2.热力图bug寻找
-3.折线图
