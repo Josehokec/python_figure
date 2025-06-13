@@ -5,6 +5,6 @@
 
 
 <center class ='img'>
-<img title="bar_example" src="bar_example.png" width="45%">
-<img title="XX" src="bar_example.png" width="45%">
+<img title="bar_example" src="bar_example.png" width="40%">
+<img title="XX" src="bar_example.png" width="40%">
 </center>
