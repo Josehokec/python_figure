@@ -3,5 +3,5 @@
 ### 柱状图
 1.[配色好的柱状图](/bar_figure+.ipynb)
 
-![bar_example](bar_example.png =300x200)
+![bar_example](bar_example.png#pic_center =300x200)
 
