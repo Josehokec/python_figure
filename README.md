@@ -3,5 +3,8 @@
 ### 柱状图
 1.[配色好的柱状图](/bar_figure+.ipynb)
 
-![bar_example](bar_example.png#pic_center =300x200)
 
+<center class ='img'>
+<img title="bar_example" src="bar_example.png" width="45%">
+<img title="XX" src="bar_example.png" width="45%">
+</center>
