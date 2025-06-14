@@ -1,6 +1,13 @@
 # 论文画图代码示例
 
-配色真的很重要,推荐一些个人常用的配色网站
+配色真的很重要,下面给出了三个非常好看的图例配色
+<center>
+  <img src="fig_example1" width="30%" >
+  <img src="fig_example2" width="30%">
+  <img src="fig_example3" width="30%">
+</center>
+
+推荐一些个人常用的配色网站
 - [ColorHexa](https://www.colorhexa.com):提供配色方案、颜色信息和应用建议（选定颜色再丢这个网站看看它建议什么色）
 
 ### 柱状图
