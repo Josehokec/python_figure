@@ -7,6 +7,12 @@
   <img src="fig_example3.png" width="30%">
 </center>
 
+<center>
+|  |  |  |
+|-|-|-|
+| ![example1](fig_example1.png =30%x) | ![example2](fig_example1.png =30%x) | ![example3](fig_example1.png =30%x) |
+</center>
+
 推荐一些个人常用的配色网站
 - [ColorHexa](https://www.colorhexa.com):提供配色方案、颜色信息和应用建议（选定颜色再丢这个网站看看它建议什么色）
 
