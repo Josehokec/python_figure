@@ -7,7 +7,7 @@
 
 |  |  |  |
 |-|-|-|
-|x|y|z|
+|<img src="fig_example1.png" width="30%" >|<img src="fig_example2.png" width="30%">|<img src="fig_example3.png" width="30%">|
 
 推荐一些个人常用的配色网站
 - [ColorHexa](https://www.colorhexa.com):提供配色方案、颜色信息和应用建议（选定颜色再丢这个网站看看它建议什么色）
