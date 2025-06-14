@@ -8,9 +8,9 @@
 </center>
 
 <center>
-|  |  |  |
-|-|-|-|
-| ![example1](fig_example1.png =30%x) | ![example2](fig_example1.png =30%x) | ![example3](fig_example1.png =30%x) |
+  <img src="fig_example1.png" style="max-width: 100%; height: auto;" alt="图片1">
+  <img src="fig_example1.png" style="max-width: 100%; height: auto;" alt="图片2">
+  <img src="fig_example1.png" style="max-width: 100%; height: auto;" alt="图片3">
 </center>
 
 推荐一些个人常用的配色网站
