@@ -8,9 +8,9 @@
 </center>
 
 <center>
-  <img src="fig_example1.png" style="max-width: 100%; height: auto;" alt="图片1">
-  <img src="fig_example1.png" style="max-width: 100%; height: auto;" alt="图片2">
-  <img src="fig_example1.png" style="max-width: 100%; height: auto;" alt="图片3">
+  <img src="fig_example1.png" style="max-width: 30%; height: auto;" alt="图片1">
+  <img src="fig_example1.png" style="max-width: 30%; height: auto;" alt="图片2">
+  <img src="fig_example1.png" style="max-width: 30%; height: auto;" alt="图片3">
 </center>
 
 推荐一些个人常用的配色网站
