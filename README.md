@@ -20,3 +20,6 @@
 
 
 ### 折线图
+<center class ='img'>
+<img title="line_example" src="line_figure.png" width="40%">
+</center>
