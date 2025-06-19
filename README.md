@@ -26,7 +26,7 @@
 </center>
 
 ### 3.箱型图
-下图展示了配色好的箱型图[Code](/line_figure.ipynb)
+下图展示了配色好的箱型图[Code](/box_figure.ipynb)
 <center class ='img'>
 <img title="box_example" src="box_example.png" width="40%">
 </center>
